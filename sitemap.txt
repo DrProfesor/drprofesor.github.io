@@ -1,0 +1,6 @@
+https://silvankohler.github.io/
+http://silvankohler.github.io/
+  https://silvankohler.github.io/sitemap.txt
+  https://silvankohler.github.io/physics-simulator
+  http://silvankohler.github.io/sitemap.txt
+  http://silvankohler.github.io/physics-simulator
